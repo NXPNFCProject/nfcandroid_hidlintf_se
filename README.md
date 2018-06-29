@@ -4,7 +4,7 @@
 
 | DESCRIPTION        | CHECKOUT COMMAND          |
 | :-------------: |:-------------:| 
-| NXPNFC_P61_JCOP_Kit    |  git clone https://github.com/NXPNFCProject/nfcandroid_hidlintf_se.git |
+| nfcandroid_hidlintf_se    |  git clone https://github.com/NXPNFCProject/nfcandroid_hidlintf_se.git |
 
 ####Supported Android Versions
 
