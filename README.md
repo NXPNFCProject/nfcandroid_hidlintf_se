@@ -30,7 +30,7 @@
 
 
 
-#### Supported Versions on "br_android_ncihalx_q" Branch for Android Q Master
+#### Supported Versions on "br_android_ncihalx_q" Branch for Android Q 
 
 | Android Version        | NXP Release          | NXP Tag  |
 | :-------------: |:---------------------:| :-----:|
