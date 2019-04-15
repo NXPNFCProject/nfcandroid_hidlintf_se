@@ -1,13 +1,13 @@
 # nfcandroid_hidlintf_se
 
-####Git Repository
+#### Git Repository
 
 | DESCRIPTION        | CHECKOUT COMMAND          |
 | :-------------: |:-------------:| 
 | nfcandroid_hidlintf_se   |  git clone https://github.com/NXPNFCProject/nfcandroid_hidlintf_se.git |
 
 
-####Supported Android Versions on "br_android_ncihalx_p" Branch
+#### Supported Android Versions on "br_android_ncihalx_p" Branch for Android P
 
 | Android Version        | NXP Release          | NXP Tag  |
 | :-------------: |:-------------:| :-----:|
@@ -30,7 +30,7 @@
 
 
 
-####Supported Versions on "br_android_ncihalx_q" Branch for Android Q Master
+#### Supported Versions on "br_android_ncihalx_q" Branch for Android Q Master
 
 | Android Version        | NXP Release          | NXP Tag  |
 | :-------------: |:---------------------:| :-----:|
@@ -39,7 +39,7 @@
 
 
 
-####Supported Versions on "br_android_ncihalx_row_p" Branch
+#### Supported Versions on "br_android_ncihalx_row_p" Branch for Android P
 
 | Android Version        | NXP Release          | NXP Tag  |
 | :-------------: |:-------------:| :-----:|
