@@ -1,12 +1,12 @@
 # nfcandroid_hidlintf_se
 
-####Git Repository
+#### Git Repository
 
 | DESCRIPTION        | CHECKOUT COMMAND          |
 | :-------------: |:-------------:| 
 | nfcandroid_hidlintf_se    |  git clone https://github.com/NXPNFCProject/nfcandroid_hidlintf_se.git |
 
-####Supported Android Versions
+#### Supported Android Versions
 
 | Android Version        | NXP Release          | NXP Tag  |
 | :-------------: |:-------------:| :-----:|
@@ -25,3 +25,7 @@
 | android-p-preview 2               |  9.00.16 (SN100x) |  NFC_NCIHALx_AR2000.09.00.16_OpnSrc |
 | android-p-preview 2               |  9.00.17 (SN100x) |  NFC_NCIHALx_AR2000.09.00.17_OpnSrc |
 | android-p-preview 2               |  9.00.18 (SN100x) |  NFC_NCIHALx_AR2000.09.00.18_OpnSrc |
+| android-p-preview 2               |  9.00.19 (SN100x) |  NFC_NCIHALx_AR2000.09.00.19_OpnSrc |
+
+
+
