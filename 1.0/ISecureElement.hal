@@ -54,9 +54,6 @@ interface ISecureElement {
     /**
      * Transmits an APDU command (as per ISO/IEC 7816) to the SE.
      *
-     * The underlying layers generate as many TPDUs as necessary to transport
-     * this APDU to the Secure Element.
-     *
      * @param data APDU command to be sent
      * @return response to the command. In case of error in communicating with
      *                  the secure element, an empty vector is returned.
@@ -113,11 +110,12 @@ interface ISecureElement {
     /**
      * Closes the channel indicated by the channelNumber.
      *
-     * channelNumber is zero for basic channel.
+     * Closing a basic channel, i.e with channelNumber 0 must return
+     * SecureElementStatus::FAILED.
      *
      * @param channelNumber to be closed
      * @return status SecureElementStatus::SUCCESS on success and
-     *                SecureElement::FAILED on error.
+     *                SecureElementStatus::FAILED on error.
      */
     closeChannel(uint8_t channelNumber) generates (SecureElementStatus status);
 };
